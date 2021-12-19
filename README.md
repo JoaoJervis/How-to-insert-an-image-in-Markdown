@@ -23,4 +23,4 @@ There are two different link types in Markdown, but both of them render the exac
 
 Example:
 
-[GitHub](www.github.com)
+[Youtube](www.youtube.com)
