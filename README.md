@@ -15,4 +15,4 @@ To make headers in Markdown, you preface the phrase with a hash mark (#). You pl
 
     You can't really make a header bold, but you can italicize certain words.
 
-[Procure por ele] (www.google.com)
+[Procure por ele.](www.google.com)
