@@ -5,14 +5,22 @@ We'll start by learning two basic elements in text formatting: italics and bold.
 
 To make a phrase italic in Markdown, you can surround words with an underscore
 
-Example: _this word is in italic_
+Example:
+
+    _this word is in italic_
 
 You can change words with two asterisks (*). This will make you see thicker words, **differents**.
     
-Example: **bold**
+Example:
+
+    **bold**
 
 To make headers in Markdown, you preface the phrase with a hash mark (#). You place the same number of hash marks as the size of the header you want. For example, for a header one, you'd use one hash mark (# Header One), while for a header three, you'd use three (### Header Three).
 
     You can't really make a header bold, but you can italicize certain words.
 
-[Procure por ele.](www.google.com)
+There are two different link types in Markdown, but both of them render the exact same way. The first link style is called an inline link. To create an inline link, you wrap the link text in brackets ( ), and then you wrap the link in parenthesis ( ).
+
+Example:
+
+[GitHub](www.github.com)
