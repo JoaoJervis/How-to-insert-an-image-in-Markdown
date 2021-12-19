@@ -1,3 +1,5 @@
+##How to write in Markdown
+
 # How-to-insert-an-image-in-Markdown
 
 We must start by writing ! [ and then we write the name we gave the photo, after that , at the end of the name we must by !] for example ! [Philadelphia's Magic Gardens. This 
