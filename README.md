@@ -25,11 +25,6 @@ To make headers in Markdown, start the sentence with a hashtag (#). To do this, 
 There are two different link types in Markdown, but both of them render the exact same way. The first link style is called an inline link. To create an inline link, you wrap the link text in brackets ( ), and then you wrap the link in parenthesis (*).
 
 You can also put links in words. The words turned blue and when you click on them you'll go somewhere, I'm sure you've see something like.
-
-Example:
-
-[Github](www.github.com)
-
 But you have to be careful about the links that tell you to click, especially if you don't know who told you to click on them. There is a way to find out which link they are
 sending you to: you right-click and the last two options that appear are "View page source" (Ctrl + U) and "Inspect". If you click on "View page source" you will see it in html
 and you will be able to find out what the link is. If you click on "View page source" in half of the tab the page will appear and the html page on the other half.
