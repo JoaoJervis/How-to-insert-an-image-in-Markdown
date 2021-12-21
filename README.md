@@ -1,7 +1,6 @@
 #How-to-write-in-Markdown
 
-Italics and Bold
-First let's learn two basic elements of text formatting: italics and bold. In these parts, you will probably notice some text written in Markdown. Regular Markdown is no different than regular text, but I'm providing some highlighted parts to make them easier to see.To make a phrase italic in Markdown, you can surround words with an underscore
+Italics and Bold. First let's learn two basic elements of text formatting: italics and bold. In these parts, you will probably notice some text written in Markdown. Regular Markdown is no different than regular text, but I'm providing some highlighted parts to make them easier to see.To make a phrase italic in Markdown, you can surround words with an underscore
 
 Example of Italic:
 
