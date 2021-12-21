@@ -1,21 +1,19 @@
 #How-to-write-in-Markdown
 
 Italics and Bold
-We'll start by learning two basic elements in text formatting: italics and bold. In these lessons, you'll notice some ; this text is actually written in Markdown! Regular Markdown doesn't look any different than regular text, but we're providing some highlighting to make it easier to see.formatted red text
+First let's learn two basic elements of text formatting: italics and bold. In these parts, you will probably notice some text written in Markdown. Regular Markdown is no different than regular text, but I'm providing some highlighted parts to make them easier to see.To make a phrase italic in Markdown, you can surround words with an underscore
 
-To make a phrase italic in Markdown, you can surround words with an underscore
-
-Example:
+Example of Italic:
 
     _this word is in italic_
 
-You can change words with two asterisks (*). This will make you see thicker words, **differents**.
+You can change words with two asterisks. This will make you see thicker words, **differents**
     
 Example:
 
     **bold**
 
-To make headers in Markdown, you preface the phrase with a hash mark (#). You place the same number of hash marks as the size of the header you want. For example, for a header one, you'd use one hash mark (# Header One), while for a header three, you'd use three (### Header Three).
+To make headers in Markdown, start the sentence with a hashtag (#). To do this, place the same number of hashtag marks as the size of the header you want. For example, for a 1 header, you would use one hashtag tag (# Header 1), while for a 3 header, you would use three (### Header 3). I personally only know up to heading 6.
 
     You can't really make a header bold, but you can italicize certain words.
 
