@@ -28,3 +28,10 @@ You can also put links in words. The words turned blue and when you click on the
 But you have to be careful about the links that tell you to click, especially if you don't know who told you to click on them. There is a way to find out which link they are
 sending you to: you right-click and the last two options that appear are "View page source" (Ctrl + U) and "Inspect". If you click on "View page source" you will see it in html
 and you will be able to find out what the link is. If you click on "View page source" in half of the tab the page will appear and the html page on the other half.
+
+Here's [a link to something else][another place].
+     Here's [yet another link][another-link].
+     And now back to [the first link][another place].
+
+     [another place]: www.github.com
+     [another-link]: www.google.com
