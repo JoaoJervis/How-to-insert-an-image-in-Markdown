@@ -8,11 +8,17 @@ Example of Italic:
 
 You can change words with two asterisks. This will make you see thicker words, **differents**
     
-Example:
+Example of Bold:
 
     **bold**
 
-To make headers in Markdown, start the sentence with a hashtag (#). To do this, place the same number of hashtag marks as the size of the header you want. For example, for a 1 header, you would use one hashtag tag (# Header 1), while for a 3 header, you would use three (### Header 3). I personally only know up to heading 6.
+I've already talked about how to make words in italic and how to make words bold. Now I'm going to talk about how to put words in italics and bold at the same time. To do this, put two asterisks and an underscore at the beginning of the word and, in reverse order, at the end of the word (it is better to put the asterisks and the underscore in this order, because if you put it in the opposite order, the underscore and then you can't understand why the word is in italic and bold ) .
+
+Example:
+
+**_italic and bold_**
+
+To make headers in Markdown, start the sentence with a hashtag (#). To do this, place the same number of hashtag marks as the size of the header you want. For example, for a 1 header, you would use one hashtag (#Header 1), while for a 3 header, you would use three (###Header 3). I personally only know up to heading 6.
 
     You can't really make a header bold, but you can italicize certain words.
 
