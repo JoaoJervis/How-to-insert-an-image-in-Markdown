@@ -19,8 +19,4 @@ To make headers in Markdown, you preface the phrase with a hash mark (#). You pl
 
     You can't really make a header bold, but you can italicize certain words.
 
-There are two different link types in Markdown, but both of them render the exact same way. The first link style is called an inline link. To create an inline link, you wrap the link text in brackets ( ), and then you wrap the link in parenthesis ( ).
-
-Example:
-
-[Youtube](www.youtube.com)
+There are two different link types in Markdown, but both of them render the exact same way. The first link style is called an inline link. To create an inline link, you wrap the link text in brackets ( ), and then you wrap the link in parenthesis (*).
